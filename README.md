@@ -21,7 +21,7 @@ I.
 
 II.
 1. Register app by typing the app nickname then click on "Register App".
-2. Add Firebase SDK - in your Editor (VS Code, VS 2022, etc), open the command line then type ### npm install firebase.
+2. Add Firebase SDK - in your Editor (VS Code, VS 2022, etc), open the command line then type 'npm install firebase'.
 3. Add another folder in source to put the firebase js. (Example: Folder firebase > index.js)
 4. Copy the code located on the firebase then paste it on the editor's firebase js (e.g. index.js) file.
 5. Delete the comments
